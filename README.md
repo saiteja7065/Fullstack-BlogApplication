@@ -1,10 +1,8 @@
-# Fullstack-BlogApplication-Astra.io
+# Fullstack-BlogApplication
 
-# Astra.io - Modern Full Stack Blog Platform
+# BlogApp - Modern Full Stack Blog Platform
 
 A modern, feature-rich blogging platform built with React, Node.js, and MongoDB. Features a beautiful UI with dark/light mode support, user authentication, and a rich text editor for blog creation.
-
-![Astra.io Banner](https://iili.io/3dYEAL7.png)
 
 ## ✨ Features
 
@@ -40,8 +38,8 @@ A modern, feature-rich blogging platform built with React, Node.js, and MongoDB.
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/Shashank6717/Fullstack-BlogApplication-Astra.io.git
-cd Fullstack-BlogApplication-Astra.io
+git clone [https://github.com/saiteja7065/Fullstack-BlogApplication.git]
+cd Fullstack-BlogApplication
 \`\`\`
 
 2. Install dependencies for both frontend and backend:
